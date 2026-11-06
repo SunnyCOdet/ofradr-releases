@@ -1,10 +1,10 @@
 {
     "version":  "1.0.10",
     "minHope":  "1.0.10",
-    "generated":  "2026-11-06T16:15:36.9977673Z",
+    "generated":  "2026-11-06T16:41:20.1918915Z",
     "zip":  {
                 "name":  "payload.zip",
-                "sha256":  "de94881ee31ce66fadd448272220dfcc746f1aff98c2c30e7bd2c628d5fd113c"
+                "sha256":  "31d43bd4217ffce28b2458281f9b7de6e79077f284424c2bbf79404f41e4eaf7"
             },
     "files":  [
                   {
@@ -17,15 +17,15 @@
                   },
                   {
                       "name":  "sysblend.dll",
-                      "sha256":  "1409f3631373492cb842ab6d33f559a4898ecf86405ff4821c3a6f5fba7552c2"
+                      "sha256":  "ab20835121596be070f461c768668d2f74b63f68359a421cb96c3d93b838831a"
                   },
                   {
                       "name":  "syscheck.dll",
-                      "sha256":  "a52ab443c78ee2275ae2e383af28bfbd831b9fce284b2d0eefbb3263750dd3ac"
+                      "sha256":  "99b9d59f6423613dbcc24aff2d11f250989b98a0f6f8c3eb48ce21cb8b4e5527"
                   },
                   {
                       "name":  "wdaclr.dll",
-                      "sha256":  "bc8c267c28b53dbecbe6ee1ab56e9d9fec5585bd83f22953602d3377616a5ec1"
+                      "sha256":  "e296036a838162301bdc107cb0896ff6178ebeadd6014c48c48da1daf210eae4"
                   },
                   {
                       "name":  "WebView2Loader.dll",
