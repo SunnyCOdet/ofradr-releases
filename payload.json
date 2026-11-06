@@ -1,0 +1,35 @@
+{
+    "version":  "1.0.9",
+    "minHope":  "1.0.9",
+    "generated":  "2026-11-06T15:40:12.1159607Z",
+    "zip":  {
+                "name":  "payload.zip",
+                "sha256":  "de94881ee31ce66fadd448272220dfcc746f1aff98c2c30e7bd2c628d5fd113c"
+            },
+    "files":  [
+                  {
+                      "name":  "Dll1.dll",
+                      "sha256":  "6319988378cd7c62bbe9f206adb1d07b63c4841a6d4d3557e50c2a50cbce5d08"
+                  },
+                  {
+                      "name":  "MinHook.x64.dll",
+                      "sha256":  "bddd6adaee8ab13eabaa7c73c97718cee1437db2054ca713ec7cc86e8002a300"
+                  },
+                  {
+                      "name":  "sysblend.dll",
+                      "sha256":  "1409f3631373492cb842ab6d33f559a4898ecf86405ff4821c3a6f5fba7552c2"
+                  },
+                  {
+                      "name":  "syscheck.dll",
+                      "sha256":  "a52ab443c78ee2275ae2e383af28bfbd831b9fce284b2d0eefbb3263750dd3ac"
+                  },
+                  {
+                      "name":  "wdaclr.dll",
+                      "sha256":  "bc8c267c28b53dbecbe6ee1ab56e9d9fec5585bd83f22953602d3377616a5ec1"
+                  },
+                  {
+                      "name":  "WebView2Loader.dll",
+                      "sha256":  "b91cca37f7737c45816930b330cbb3f30de84cf1f07a8ffd89aaaa511a2f1a31"
+                  }
+              ]
+}
