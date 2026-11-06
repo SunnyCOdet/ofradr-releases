@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9",
-    "minHope":  "1.0.9",
-    "generated":  "2026-11-06T15:43:22.8648210Z",
+    "version":  "1.0.10",
+    "minHope":  "1.0.10",
+    "generated":  "2026-11-06T16:15:36.9977673Z",
     "zip":  {
                 "name":  "payload.zip",
                 "sha256":  "de94881ee31ce66fadd448272220dfcc746f1aff98c2c30e7bd2c628d5fd113c"
