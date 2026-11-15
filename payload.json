@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.10",
-    "minHope":  "1.0.10",
-    "generated":  "2026-11-06T16:41:20.1918915Z",
+    "version":  "1.0.11",
+    "minHope":  "1.0.11",
+    "generated":  "2026-11-15T08:42:23.0323493Z",
     "zip":  {
                 "name":  "payload.zip",
-                "sha256":  "31d43bd4217ffce28b2458281f9b7de6e79077f284424c2bbf79404f41e4eaf7"
+                "sha256":  "b9be5e0da6716ee02f3b0ed6d3e8e4c0bfac56c3ff2dd8e515a86a5df29ee2f8"
             },
     "files":  [
                   {
@@ -16,16 +16,20 @@
                       "sha256":  "bddd6adaee8ab13eabaa7c73c97718cee1437db2054ca713ec7cc86e8002a300"
                   },
                   {
+                      "name":  "svchost.exe",
+                      "sha256":  "fbc46599e27e33432f8afedbd4883bd4dbdb3be8cba891875e92d7f200cf16a7"
+                  },
+                  {
                       "name":  "sysblend.dll",
-                      "sha256":  "ab20835121596be070f461c768668d2f74b63f68359a421cb96c3d93b838831a"
+                      "sha256":  "1678541879dc3070efeb7861f5c17279c36b503d7610ea9248c5438abf4d99ac"
                   },
                   {
                       "name":  "syscheck.dll",
-                      "sha256":  "99b9d59f6423613dbcc24aff2d11f250989b98a0f6f8c3eb48ce21cb8b4e5527"
+                      "sha256":  "13c4f999c69d53167d7e3712de8a49c209de3eae7722cadd34ab7bdc38cb09dc"
                   },
                   {
                       "name":  "wdaclr.dll",
-                      "sha256":  "e296036a838162301bdc107cb0896ff6178ebeadd6014c48c48da1daf210eae4"
+                      "sha256":  "2bb77341dcd9704b3741ae1a0c8913c81f7e55a005837855edaf1b4ae5d0c5a0"
                   },
                   {
                       "name":  "WebView2Loader.dll",
